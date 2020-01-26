@@ -1,0 +1,13 @@
+/*fonts.css - location of all fonts used in this projects */
+
+.roboto_mono_font{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.roboto_regular_font{
+    font-family: 'Roboto', sans-serif;
+}
+
+.raleway_font{
+    font-family: 'Raleway', sans-serif;
+}
